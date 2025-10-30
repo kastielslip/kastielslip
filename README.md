@@ -1,6 +1,6 @@
 <div align="center">
 
-![Mr Robot Banner](https://i.imgur.com/VQRhzQB.gif)
+![Mr Robot Banner](https://media.giphy.com/media/dLolp8dtrYCJi/giphy.gif)
 
 # 💀 KASTIELSLIP
 ### *"Hello, friend. Welcome to my digital chaos."*
