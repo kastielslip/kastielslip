@@ -86,7 +86,11 @@ Rodando GitHub Copilot CLI no Android via Termux. Porque sim.
 
 ### *"The bug is not a bug. It's a feature you don't understand yet."*
 
-![Hack The Planet](https://i.imgur.com/JELwtGU.gif)
+![Hack The Planet](https://roryhay.es/assets/img/blog/furret-zero-unleashed/qflip.gif)
+
+ <audio id="bgMusic" loop>
+        <source src="https://cdn.pixabay.com/download/audio/2022/05/27/audio_1808fbf07a.mp3" type="audio/mpeg">
+    </audio>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kastielslip&color=00ff41&style=for-the-badge)
 
