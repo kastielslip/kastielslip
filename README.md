@@ -104,6 +104,4 @@ Rodando GitHub Copilot CLI no Android via Termux. Porque sim.
 
  
 
-![Profile Views](https://komarev.com/ghpvc/?username=kastielslip&color=00ff41&style=for-the-badge)
-
 </div>
