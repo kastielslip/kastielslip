@@ -89,14 +89,7 @@ https://github-readme-activity-graph.vercel.app/graph?username=kastielslip&bg_co
 </div>
 🎮 STATUS ATUAL
 bash
-$ systemctl status kastielslip
-● kastielslip.service - Main System Process
-   Loaded: loaded (/etc/systemd/system/kastielslip.service; enabled; vendor preset: enabled)
-   Active: active (running) since forever
-   Status: "Hacking the mainframe..."
-   Tasks: 256 (limit: 1337)
-   Memory: 99.9% used
-   CPU: 1000.0% (because why not?)
+
 Atualmente trabalhando em:
 
 🔧 Otimização do Copilot Termux
