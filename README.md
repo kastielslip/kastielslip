@@ -1,8 +1,7 @@
-Perfil GitHub - Mr. Robot Edition
-markdown
+
 <div align="center">
 
-![Mr Robot Banner](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
+![Mr Robot Banner](https://media.giphy.com/media/dLolp8dtrYCJi/giphy.gif)
 
 # 💀 KASTIELSLIP
 ### *"Hello, friend. Welcome to my digital chaos."*
