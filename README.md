@@ -20,28 +20,12 @@
 
 ## 🎯 QUEM SOU EU?
 
-```bash
-$ whoami
-kastielslip
 
-$ cat /etc/motto
-"Se o sistema não me deixa entrar, eu crio minha própria porta."
-```
 
 Sou aquele cara que não aceita "não é possível". Se algo não funciona, eu faço funcionar. Se não existe, eu crio.
 
 Atualmente fazendo coisas impossíveis acontecerem, como rodar **GitHub Copilot no Termux** (sim, aquele da Microsoft, rodando num celular Android).
 
-## 🛠️ STACK
-
-```python
-skills = {
-    "languages": ["Bash", "Python", "JavaScript", "Shell Script"],
-    "environments": ["Termux", "Linux", "Android"],
-    "specialties": ["System Hacking", "ARM64 Patches", "CLI Tools"],
-    "mindset": "If it compiles, it ships. If it doesn't, I'll make it."
-}
-```
 
 ## 🔥 PROJETOS DESTACADOS
 
