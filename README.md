@@ -20,6 +20,13 @@
 
 ## 🎯 QUEM SOU EU?
 
+## 🎮 QUANDO NÃO ESTOU CODANDO
+
+- 🎯 Explorando limites do Termux
+- 🔓 Quebrando coisas (para depois consertar melhor)
+- 🌐 Pesquisando novas tecnologias
+- 🎧 Ouvindo música enquanto debugo a vida
+
 
 
 Sou aquele cara que não aceita "não é possível". Se algo não funciona, eu faço funcionar. Se não existe, eu crio.
@@ -50,17 +57,6 @@ Rodando GitHub Copilot CLI no Android via Termux. Porque sim.
 
 </div>
 
-## 💻 ATIVIDADE RECENTE
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-## 🎮 QUANDO NÃO ESTOU CODANDO
-
-- 🎯 Explorando limites do Termux
-- 🔓 Quebrando coisas (para depois consertar melhor)
-- 🌐 Pesquisando novas tecnologias
-- 🎧 Ouvindo música enquanto debugo a vida
 
 ## 📫 ME ENCONTRE
 
