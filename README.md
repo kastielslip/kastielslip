@@ -14,14 +14,7 @@
 
 </div>
 
----
 
-# 💀 KASTIELSLIP
-### *"Hello, friend. Welcome to my digital chaos."*
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0DF700&center=true&vCenter=true&width=600&lines=Hacker+%7C+Developer+%7C+Termux+Enthusiast;Breaking+Limits+Since+Day+One;Control+Is+An+Illusion)
-
-</div>
 
 ---
 
